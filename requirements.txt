@@ -23,7 +23,8 @@ pytesseract==0.3.13
 SpeechRecognition==3.10.4
 pydub==0.25.1
 transformers==4.36.2
-torch==2.1.2+cpu
+torch==2.4.1+cpu
 aiofiles==23.2.1
 setuptools==69.5.1
 --extra-index-url https://download.pytorch.org/whl/cpu
+
